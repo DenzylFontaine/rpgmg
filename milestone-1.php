@@ -6,7 +6,10 @@
 		<title>Milestone-1</title>
 	</head>
 	<body>
-		<h1>Persona</h1>
+		<h1>Purpose</h1>
+		<p>The purpose of this site is to create a place for fans of various RNG artists to find music and merchandise.
+		</p>
+		<h2>Persona</h2>
 		<p>Steven<br/>
 		Steven is in his twenties, has worked minimum wage jobs but now has a job with a steady salary.<br/>
 		He frequents our site on his cell phone. He is a hip hop fan and visits our site because<br/>
@@ -14,7 +17,7 @@
 		<br/>
 		His goal is to find new hip hop music or some new urban clothes.
 		</p>
-			<h2>Use Case</h2>
+			<h3>Use Case</h3>
 			<p>Steven uses his phone to search our website to search for and possibly buy new clothes on our website,<br/>
 			while listening to our music through our soundcloud link.
 			</p>
