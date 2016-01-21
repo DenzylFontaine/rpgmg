@@ -11,9 +11,9 @@
 		</p>
 		<br/>
 			<h2>Audience</h2>
-			<P>This website wil primarily be visited by teenage to middle aged men and women.<br/>
-				Who are fans of hip hop and RNB looking for quality new music.
-			</P>
+			<p>This website wil primarily be visited by teenage to middle aged men and women.<br/>
+				Who are fans of hip hop and RNG looking for quality new music.
+			</p>
 				<h3>Persona</h3>
 				<p>Steven<br/>
 				Steven is in his twenties, has worked minimum wage jobs but now has a job with a steady salary.<br/>
