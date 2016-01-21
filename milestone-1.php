@@ -7,7 +7,7 @@
 	</head>
 	<body>
 		<h1>Purpose</h1>
-		<p>The purpose of this site is to create a place for fans of various RNG artists to find music and merchandise.
+		<p>The purpose of this site is to create a place for fans of various RPG artists to find music and merchandise.
 		</p>
 		<br/>
 			<h2>Audience</h2>
