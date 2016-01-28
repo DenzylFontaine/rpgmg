@@ -15,7 +15,7 @@
 			<p>These 2 pages would have images only with text to display prices and names of the attire.</p>
 			</li>
 			<ul>Music</ul>
-			<li>Soundcloud - this page would have on site links to Soundcloud so that albums and individual songs can be played on our site. Video links will also be necessary so the latest music videos we make can be added in (maybe via youtube link).</li>
+			<li>Soundcloud- this page would have on site links to Soundcloud so that albums and individual songs can be played on our site. Video links will also be necessary so the latest music videos we make can be added in (maybe via youtube link).</li>
 		</div>
 	</body>
 </html>
