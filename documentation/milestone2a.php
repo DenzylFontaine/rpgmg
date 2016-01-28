@@ -17,6 +17,6 @@
 			<ul>Music</ul>
 			<li>Soundcloud- this page would have on site links to Soundcloud so that albums and individual songs can be played on our site. Video links will also be necessary so the latest music videos we make can be added in (maybe via youtube link). This is what we want the users to come to the site for the music. This page must work smoothly and always have updated content.</li>
 		</div>
-		<img src="wireframe.svg"
+		<img src="wireframe"
 	</body>
 </html>
