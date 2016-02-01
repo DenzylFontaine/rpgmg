@@ -23,14 +23,18 @@
 			<h2>Wireframes</h2>
 				<img src="wideframes.svg"/>
 				</br>
+				<p>Clothes</p>
 				<img src="wideframe2.svg"/>
 				</br>
+				<p>Music</p>
 				<img src="wideframe3.svg" />
 					<h2>Mobile Wireframes</h2>
 					<img src="mobileframes.svg" />
 					</br>
+					<p>Clothes</p>
 					<img src="movileframe2.svg"
 					</br>
+					<p>Music</p>
 					<img src="movileframe3.svg" />
 	</body>
 </html>
