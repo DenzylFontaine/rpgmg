@@ -32,7 +32,7 @@
 					<img src="mobileframes.svg" />
 					</br>
 					<p>Clothes</p>
-					<img src="mobileframe6.svg"
+					<img src="movileframe6.svg"
 					</br>
 					<p>Music</p>
 					<img src="movileframe3.svg" />
