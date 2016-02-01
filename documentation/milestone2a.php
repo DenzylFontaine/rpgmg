@@ -21,12 +21,16 @@
 			<img src="wireframe.svg" />
 			</br>
 			<h2>Wireframes</h2>
-				<img src="wideframes.svg"
-				<img src="wideframe2.svg"
+				<img src="wideframes.svg"/>
+				</br>
+				<img src="wideframe2.svg"/>
+				</br>
 				<img src="wideframe3.svg" />
 					<h2>Mobile Wireframes</h2>
-					<img src="mobileframes.svg"
+					<img src="mobileframes.svg" />
+					</br>
 					<img src="movileframe2.svg"
+					</br>
 					<img src="movileframe3.svg" />
 	</body>
 </html>
