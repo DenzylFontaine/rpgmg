@@ -18,23 +18,23 @@
 		</div>
 		</br>
 			<h2>Site Map</h2>
-			<img src="wireframe.svg" />
+			<img src="../images/wireframe.svg" />
 			</br>
 			<h2>Wireframes</h2>
-				<img src="wideframes.svg"/>
+				<img src="../images/wideframes.svg"/>
 				</br>
 				<p>Clothes</p>
-				<img src="wideframe2.svg"/>
+				<img src="../images/wideframe2.svg"/>
 				</br>
 					<p>Music</p>
-						<img src="wideframe3.svg" />
+						<img src="../images/wideframe3.svg" />
 						<h2>Mobile Wireframes</h2>
-						<img src="mobileframes.svg" />
+						<img src="../images/mobileframes.svg" />
 						</br>
 						<p>Clothes</p>
-						<img src="movileframe6.svg"
+						<img src="../images/movileframe6.svg"
 						</br>
 						<p>Music</p>
-						<img src="movileframe3.svg" />
+						<img src="../images/movileframe3.svg" />
 	</body>
 </html>
