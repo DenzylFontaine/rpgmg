@@ -63,3 +63,18 @@ At the very minimum, I need to see an updated site map and wireframes before I c
 - Be sure that all tags are closed properly. Your &lt;img&gt; tag is still open, and is missing the alt text.
 - &lt;meta charset="utf-8"/&gt; is missing 
 - Add a "." before DS_Store in your .gitignore file
+
+### Milestone 2&alpha; Feedback - Appended
+&#10004; Create a sitemap outlining the pages you plan to include in your PWP.
+
+&#10004; Document a brief plan or strategy for your content that will support the overall purpose and goal of the site.
+
+&#10004; Map out a simple interaction flow that details the steps a user must take to successfully use your site to acheive the goal.
+
+&#10004; Create a mobile and desktop/laptop wireframe for each page layout.
+
+Your Milestone passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You're clear to begin development. 
+
+I suggest that the elements on the mobile layout be full-width. This will ensure a good layout on the narrowest mobile screens.
+
+Your HTML errors from my earlier evaluation still need to be corrected - but just take note of the errors and go forward from here. No need to spend any time making the corrections.
