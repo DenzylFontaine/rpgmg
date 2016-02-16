@@ -31,6 +31,7 @@
 		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
-		<header></header>
+		<header>
+		</header>
 	</body>
 </html>
