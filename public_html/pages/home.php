@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head lang ="en">
-		<title>RPG Music</title>
+		<title></title>
 		<meta charset="utf-8"/>
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
