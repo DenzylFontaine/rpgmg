@@ -64,5 +64,54 @@
 				</div>
 			</nav>
 		</header>
+		<!--start of pic carousel-->
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			 Indicators
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class=""></li>
+				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
+				<li data-target="#myCarousel" data-slide-to="2" class="active"></li>
+			</ol>
+			<div class="carousel-inner" role="listbox">
+				<div class="item">
+					<img class="first-slide" src="http://cdn.bmwblog.com/wp-content/uploads/bmw-i8-pure-impulse-package-02.jpg" alt="First slide">
+					<div class="container">
+						<div class="carousel-caption">
+							<h1>Respect</h1>
+							<p>Click here to go to Dylan's page.</p>
+							<p><a class="btn btn-lg btn-primary" href="#" role="button">Dylan Huling</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<img class="second-slide" src="http://www.landroverusa.com/Images/L494_16_EXT_LOC02_AUTO_04_ms_1_293-182901_450x259.jpg?v=2" alt="Second slide">
+					<div class="container">
+						<div class="carousel-caption">
+							<h1>Power</h1>
+							<p>Click here to go to Junior J's page.</p>
+							<p><a class="btn btn-lg btn-primary" href="#" role="button">Junior J</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="item active">
+					<img class="third-slide" src="http://www.topgear.com/sites/default/files/styles/fit_1960x1102/public/news/carousel/2015/04/Large%20Image_10190.jpg?itok=Lgxsgsdk" alt="Third slide">
+					<div class="container">
+						<div class="carousel-caption">
+							<h1>Glory</h1>
+							<p>Click here to go to kings's page.</p>
+							<p><a class="btn btn-lg btn-primary" href="#" role="button">King</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
 	</body>
 </html>
