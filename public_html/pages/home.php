@@ -41,11 +41,12 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
+<!--						left side of the navbar starts here-->
 						<a class="navbar-brand" href="#">RPG</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">Home</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/home.php">Home</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -57,7 +58,7 @@
 									<li><a href="#">Junior J</a></li>
 									<li><a href="#">King</a></li>
 								</ul>
-							<li class="active"><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/clothes.php">Gear<span class="sr-only"></a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/clothes.php">Gear<span class="sr-only"></a></li>
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists.php">Music</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
