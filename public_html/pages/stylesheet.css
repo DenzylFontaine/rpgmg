@@ -1,15 +1,23 @@
 .navbar-inverse .navbar-brand {
-	color: #621f80;
+	color: #cc101d;
+	font-family: Kingthings Calligraphica;
+}
+
+.navbar-inverse .navbar-nav  > li > a {
+	color: white;
 }
 
 
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+	color: black;
+}
 
-
-
-
-
-
-
+.navbar-inverse .navbar-nav:hover,
+.navbar-inverse .navbar-nav:focus {
+	color: #cc101d;
+	background-color: transparent;
+}
 
 
 .first-slide  {
@@ -36,3 +44,7 @@
 	box-shadow: 10px 10px 10px #aaa;
 }
 
+.myCarousel > a {
+	border-radius: 0;
+	color: black;
+}

@@ -3,6 +3,7 @@
 	<head lang ="en">
 		<title></title>
 		<meta charset="utf-8"/>
+		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -28,7 +29,6 @@
 		​
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<header>
@@ -56,6 +56,7 @@
 								<ul class="dropdown-menu">
 									<li><a href="#">Dylan Huling</a></li>
 									<li><a href="#">Junior J</a></li>
+									<li><a href="#">Adam</a></li>
 									<li><a href="#">King</a></li>
 								</ul>
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/clothes.php">Gear<span class="sr-only"></a></li>
@@ -80,7 +81,7 @@
 						<div class="carousel-caption">
 							<h1>Respect</h1>
 							<p>Click here to go to Dylan's page.</p>
-							<p><a class="btn btn-lg btn-primary" href="#" role="button">Dylan Huling</a></p>
+							<p><a class="btn btn-lg btn-danger" href="#" role="button">Dylan Huling</a></p>
 						</div>
 					</div>
 				</div>
@@ -90,7 +91,7 @@
 						<div class="carousel-caption">
 							<h1>Power</h1>
 							<p>Click here to go to Junior J's page.</p>
-							<p><a class="btn btn-lg btn-primary" href="#" role="button">Junior J</a></p>
+							<p><a class="btn btn-lg btn-danger" href="#" role="button">Junior J</a></p>
 						</div>
 					</div>
 				</div>
@@ -100,7 +101,7 @@
 						<div class="carousel-caption">
 							<h1>Glory</h1>
 							<p>Click here to go to kings's page.</p>
-							<p><a class="btn btn-lg btn-primary" href="#" role="button">King</a></p>
+							<p><a class="btn btn-lg btn-danger" href="#" role="button">King</a></p>
 						</div>
 					</div>
 				</div>
@@ -114,5 +115,6 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
+		<div
 	</body>
 </html>
