@@ -7,14 +7,8 @@
 	color: white;
 }
 
-
-.navbar-inverse .navbar-brand:hover,
-.navbar-inverse .navbar-brand:focus {
-	color: black;
-}
-
-.navbar-inverse .navbar-nav:hover,
-.navbar-inverse .navbar-nav:focus {
+.navbar-inverse .navbar-fixed-top:hover,
+.navbar-inverse .navbar-fixed-top:focus {
 	color: #cc101d;
 	background-color: transparent;
 }
