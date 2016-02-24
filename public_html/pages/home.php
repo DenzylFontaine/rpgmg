@@ -31,6 +31,9 @@
 	</head>
 	<body>
 		<header>
+<!--			==========================-->
+<!--			beginning of the navbar-->
+<!--			==========================-->
 			<nav class="navbar navbar-inverse navbar-fixed-top">
 				<div class="container">
 					<div class="navbar-header">
@@ -65,7 +68,9 @@
 				</div>
 			</nav>
 		</header>
+<!--		============================-->
 		<!--start of pic carousel-->
+<!--		=============================-->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			 Indicators
 			<ol class="carousel-indicators">
@@ -114,6 +119,17 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
-		<div
+<!--		=========================-->
+<!--		section one: clothes-->
+<!--		=============================-->
+		<section class="secGear">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+
+					</div>
+				</div>
+			</div>
+		</section>
 	</body>
 </html>
