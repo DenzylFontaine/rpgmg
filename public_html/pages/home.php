@@ -58,8 +58,8 @@
 								<ul class="dropdown-menu">
 									<li><a href="#">Dylan Huling</a></li>
 									<li><a href="#">Junior J</a></li>
-									<li><a href="#">Adam</a></li>
-									<li><a href="#">King</a></li>
+									<li><a href="#">Authentik Lyf</a></li>
+									<li><a href="#">King Jones</a></li>
 								</ul>
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/clothes.php">Gear<span class="sr-only"></a></li>
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists.php">Music</a></li>
@@ -105,7 +105,7 @@
 						<div class="carousel-caption">
 							<h1>Glory</h1>
 							<p>Click here to go to kings's page.</p>
-							<p><a class="btn btn-lg btn-danger" href="#" role="button">King</a></p>
+							<p><a class="btn btn-lg btn-danger" href="#" role="button">King Jones</a></p>
 						</div>
 					</div>
 				</div>
