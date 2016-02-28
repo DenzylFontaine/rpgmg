@@ -122,11 +122,13 @@
 <!--		=========================-->
 <!--		section one: clothes-->
 <!--		=============================-->
-		<section class="secGear">
+		<section class="scrolling">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12">
-
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img src="greyshirt.jpg" />
+						<p>$??.??</p>
 					</div>
 				</div>
 			</div>
