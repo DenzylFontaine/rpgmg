@@ -125,11 +125,18 @@
 		<section class="scrolling">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<h5>Hobo Swag</h5>
-						<img src="shirtgrey.jpg" />
+						<img src="whitetux.jpg" />
 						<p>$??.??</p>
 					</div>
+				</div>
+			</div>
+			<div class="container2">
+				<div class="col-md-3">
+					<h5>Hobo Swag</h5>
+					<img>
+					<p>$??.??</p>
 				</div>
 			</div>
 		</section>
