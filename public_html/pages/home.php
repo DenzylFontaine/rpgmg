@@ -127,7 +127,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<h5>Hobo Swag</h5>
-						<img src="greyshirt.jpg" />
+						<img src="shirtgrey.jpg" />
 						<p>$??.??</p>
 					</div>
 				</div>
