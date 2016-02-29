@@ -130,12 +130,17 @@
 						<img src="whitetux.jpg" />
 						<p>$??.??</p>
 					</div>
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img>
+						<p>$??.??</p>
+					</div>
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img>
+						<p>$??.??</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<h5>Hobo Swag</h5>
-				<img>
-				<p>$??.??</p>
 			</div>
 		</section>
 	</body>
