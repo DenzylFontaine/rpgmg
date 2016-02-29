@@ -5,6 +5,7 @@
 
 .navbar-inverse .navbar-nav  > li > a {
 	color: white;
+	font-family: Georgia;
 }
 
 .navbar-inverse .navbar-nav  > li > a:hover {
@@ -59,4 +60,8 @@ h1 {
 	color: black;
 	border-radius: 0;
 	box-shadow: 6px 6px 6px #050505;
+}
+
+.carousel-indicators .active {
+	background-color: #050505;
 }
