@@ -61,7 +61,7 @@
 									<li><a href="#">Authentik Lyf</a></li>
 									<li><a href="#">King Jones</a></li>
 								</ul>
-							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/clothes.php">Gear<span class="sr-only"></a></li>
+							<li><a href="#scrolling">Gear<span class="sr-only"></a></li>
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists.php">Music</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
@@ -127,17 +127,36 @@
 				<div class="row">
 					<div class="col-md-4">
 						<h5>Hobo Swag</h5>
-						<img src="whitetux.jpg" />
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-md-4">
 						<h5>Hobo Swag</h5>
-						<img>
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-md-4">
 						<h5>Hobo Swag</h5>
-						<img>
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+						<p>$??.??</p>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+						<p>$??.??</p>
+					</div>
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+						<p>$??.??</p>
+					</div>
+					<div class="col-md-4">
+						<h5>Hobo Swag</h5>
+						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 				</div>

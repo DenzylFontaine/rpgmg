@@ -1,3 +1,5 @@
+/*navbar css*/
+
 .navbar-inverse .navbar-brand {
 	color: #cc101d;
 	font-family: Kingthings Calligraphica;
@@ -16,6 +18,8 @@
 .navbar-inverse .dropdown-menu>li>a:hover {
 	color: #cc101d
 }
+
+/*carousel css*/
 
 .first-slide  {
 	height: 700px;
@@ -64,4 +68,15 @@ h1 {
 
 .carousel-indicators .active {
 	background-color: #050505;
+}
+
+/*clothes css*/
+
+.scrolling {
+	text-align: center;
+}
+
+.photo {
+	width: 300px;
+	height:350px;
 }
