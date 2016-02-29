@@ -165,5 +165,8 @@
 <!--		==================-->
 		section two: Music
 <!--		==================-->
+		<section class="music">
+
+		</section>
 	</body>
 </html>
