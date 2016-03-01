@@ -57,7 +57,7 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Artists <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Dylan Huling</a></li>
-									<li><a href="#">Junior J</a></li>
+									<li><a href="#">Jr. J</a></li>
 									<li><a href="#">Authentik Lyf</a></li>
 									<li><a href="#">King Jones</a></li>
 								</ul>
@@ -72,7 +72,7 @@
 		<!--start of pic carousel-->
 <!--		=============================-->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-			 Indicators
+<!--			 Indicators-->
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
@@ -95,7 +95,7 @@
 						<div class="carousel-caption">
 							<h1>Power</h1>
 							<p>Click here to go to Junior J's page.</p>
-							<p><a class="btn btn-lg btn-danger" href="#" role="button">Junior J</a></p>
+							<p><a class="btn btn-lg btn-danger" href="#" role="button">Jr. J</a></p>
 						</div>
 					</div>
 				</div>
@@ -163,10 +163,12 @@
 			</div>
 		</section>
 <!--		==================-->
-		section two: Music
+<!--		section two: Music-->
 <!--		==================-->
 		<section class="music">
-
+			<div class="soundcloud">
+				<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			</div>
 		</section>
 	</body>
 </html>
