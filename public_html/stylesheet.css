@@ -20,6 +20,10 @@
 
 /*carousel css*/
 
+.mid-carousel {
+	text-align: center;
+}
+
 /*.first-slide  {*/
 /*height: 700px;*/
 /*width: 900px;*/
@@ -75,9 +79,7 @@ h1 {
 	text-align: center;
 }
 
-.shirts {
-	width: 300px;
-	height:350px;
+.img-responsive {
 	border: 10px double black;
 	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.59);
 }

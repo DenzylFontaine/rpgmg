@@ -72,34 +72,36 @@
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="2" class="active"></li>
 			</ol>
-			<div class="carousel-inner" role="listbox">
-				<div class="item">
-					<img class="first-slide" src="lighter-1218248_640.jpg" alt="First slide">
-					<div class="container">
-						<div class="carousel-caption">
-							<h1>Respect</h1>
-							<p>Click here to go to Dylan's page.</p>
-							<p><a class="btn btn-lg btn-danger" href="#" role="button">Dylan Huling</a></p>
+			<div class="mid-carousel">
+				<div class="carousel-inner" role="listbox">
+					<div class="item">
+						<img class="first-slide" src="images/lighter-1218248_640.jpg" alt="First slide">
+						<div class="container">
+							<div class="carousel-caption">
+								<h1>Respect</h1>
+								<p>Click here to go to Dylan's page.</p>
+								<p><a class="btn btn-lg btn-danger" href="#" role="button">Dylan Huling</a></p>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="item">
-					<img class="second-slide" src="lighter-1218248_640.jpg" alt="Second slide">
-					<div class="container">
-						<div class="carousel-caption">
-							<h1>Power</h1>
-							<p>Click here to go to Junior J's page.</p>
-							<p><a class="btn btn-lg btn-danger" href="#" role="button">Jr. J</a></p>
+					<div class="item">
+						<img class="second-slide" src="images/lighter-1218248_640.jpg" alt="Second slide">
+						<div class="container">
+							<div class="carousel-caption">
+								<h1>Power</h1>
+								<p>Click here to go to Junior J's page.</p>
+								<p><a class="btn btn-lg btn-danger" href="#" role="button">Jr. J</a></p>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="item active">
-					<img class="third-slide" src="lighter-1218248_640.jpg" alt="Third slide">
-					<div class="container">
-						<div class="carousel-caption">
-							<h1>Glory</h1>
-							<p>Click here to go to kings's page.</p>
-							<p><a class="btn btn-lg btn-danger" href="#" role="button">King Jones</a></p>
+					<div class="item active">
+						<img class="third-slide" src="images/lighter-1218248_640.jpg" alt="Third slide">
+						<div class="container">
+							<div class="carousel-caption">
+								<h1>Glory</h1>
+								<p>Click here to go to kings's page.</p>
+								<p><a class="btn btn-lg btn-danger" href="#" role="button">King Jones</a></p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -113,13 +115,14 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
+		</br>
 		<!--		=========================-->
 		<!--		section one: clothes-->
 		<!--		=============================-->
 		<section class="scrolling">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-6 col-md-4">
+					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h5>Lobo Swag</h5>
 							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
@@ -142,7 +145,7 @@
 			</br>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-6 col-md-4">
+					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h5>Lobo Swag</h5>
 							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
