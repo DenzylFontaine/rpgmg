@@ -21,31 +21,28 @@
 
 /*carousel css*/
 
-.item {
-	text-align: center;
-}
 .first-slide  {
 	height: 700px;
 	width: 900px;
-	/*position: relative;*/
-	/*left: 275px;*/
-	/*box-shadow: 10px 10px 10px #aaa;*/
+	position: relative;
+	left: 275px;
+	box-shadow: 10px 10px 10px #aaa;
 }
 
 .second-slide {
 	height: 700px;
 	width: 900px;
-	/*position: relative;*/
-	/*left: 275px;*/
-	/*box-shadow: 10px 10px 10px #aaa;*/
+	position: relative;
+	left: 275px;
+	box-shadow: 10px 10px 10px #aaa;
 }
 
 .third-slide {
 	height: 700px;
 	width: 900px;
-	/*position: relative;*/
-	/*left: 275px;*/
-	/*box-shadow: 10px 10px 10px #aaa;*/
+	position: relative;
+	left: 275px;
+	box-shadow: 10px 10px 10px #aaa;
 }
 
 .myCarousel > a {
