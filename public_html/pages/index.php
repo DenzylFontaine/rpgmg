@@ -126,17 +126,17 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
@@ -145,17 +145,17 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Hobo Swag</h5>
+						<h5>Lobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
