@@ -70,7 +70,8 @@
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
-				<li data-target="#myCarousel" data-slide-to="2" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="2" class=""></li>
+				<li data-target="#myCarousel" data-slide-to="3" class="active"></li>
 			</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item">
@@ -88,18 +89,28 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Power</h1>
-								<p>Click here to go to Junior J's page.</p>
+								<p>Click here to go to Jr. J's page.</p>
 								<p><a class="btn btn-lg btn-danger" href="#" role="button">Jr. J</a></p>
 							</div>
 						</div>
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img class="third-slide" src="images/lighter-1218248_640.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Glory</h1>
-								<p>Click here to go to kings's page.</p>
+								<p>Click here to go to the Kings's page.</p>
 								<p><a class="btn btn-lg btn-danger" href="#" role="button">King Jones</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="item active">
+						<img class="forth-slide" src="images/lighter-1218248_640.jpg" alt="Forth slide">
+						<div class="container">
+							<div class="carousel-caption">
+								<h1>"Own Yourself" -RPG</h1>
+								<p>Click here to go to Authentik Lyfe's page.</p>
+								<p><a class="btn btn-lg btn-danger" href="#" role="button">Authentik Lyfe</a></p>
 							</div>
 						</div>
 					</div>
