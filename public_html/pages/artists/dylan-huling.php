@@ -63,6 +63,9 @@
 				</div>
 			</nav>
 		</header>
+		</br>
+		</br>
+		</br>
 <!--		==========================-->
 <!--		start of the Dylans change-->
 <!--		==========================-->
@@ -70,8 +73,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p>Dylan Huling</p>
-					<img src="images/"
-				</div>
+					<img src="/public_html/images/horn-952994_640.jpg" />
 			</div>
 		</section>
 	</body>
