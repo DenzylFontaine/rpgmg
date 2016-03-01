@@ -2,11 +2,13 @@
 
 .navbar-inverse .navbar-brand {
 	color: #cc101d;
+	font-family: Calligraffitti;
 }
 
 .navbar-inverse .navbar-nav  > li > a {
 	color: white;
 	font-family: Georgia;
+	font-size: large;
 }
 
 .navbar-inverse .navbar-nav  > li > a:hover {
