@@ -20,29 +20,29 @@
 
 /*carousel css*/
 
-/*.first-slide  {*/
-/*height: 700px;*/
-/*width: 900px;*/
-/*position: relative;*/
-/*left: 275px;*/
-/*box-shadow: 10px 10px 10px #aaa;*/
-/*}*/
+.first-slide  {
+height: 700px;
+width: 900px;
+position: relative;
+left: 275px;
+box-shadow: 10px 10px 10px #aaa;
+}
 
-/*.second-slide {*/
-/*height: 700px;*/
-/*width: 900px;*/
-/*position: relative;*/
-/*left: 275px;*/
-/*box-shadow: 10px 10px 10px #aaa;*/
-/*}*/
+.second-slide {
+height: 700px;
+width: 900px;
+position: relative;
+left: 275px;
+box-shadow: 10px 10px 10px #aaa;
+}
 
-/*.third-slide {*/
-/*height: 700px;*/
-/*width: 900px;*/
-/*position: relative;*/
-/*left: 275px;*/
-/*box-shadow: 10px 10px 10px #aaa;*/
-/*}*/
+.third-slide {
+height: 700px;
+width: 900px;
+position: relative;
+left: 275px;
+box-shadow: 10px 10px 10px #aaa;
+}
 
 .myCarousel > a {
 	border-radius: 0;
@@ -55,7 +55,7 @@
 }
 
 h1 {
-	font-family: Georgia;
+	font-family: Calligraffitti;
 	color:  #cc101d;
 }
 
@@ -73,7 +73,6 @@ h1 {
 
 .scrolling {
 	text-align: center;
-	background-image: url("");
 }
 
 .img-responsive {
@@ -82,11 +81,8 @@ h1 {
 }
 
 h4 {
-	color: aliceblue;
-}
-
-.scrolling > p {
-	color: aliceblue;
+	color: #cc101d;
+	font-family: "Calligraffitti";
 }
 
 /*music css*/
