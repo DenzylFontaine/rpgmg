@@ -25,9 +25,9 @@
 	</head>
 	<body>
 		<header>
-<!--			==========================-->
-<!--			beginning of the navbar-->
-<!--			==========================-->
+			<!--			==========================-->
+			<!--			beginning of the navbar-->
+			<!--			==========================-->
 			<nav class="navbar navbar-inverse navbar-fixed-top">
 				<div class="container">
 					<div class="navbar-header">
@@ -37,14 +37,14 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-<!--						left side of the navbar starts here-->
+						<!--						left side of the navbar starts here-->
 						<a class="navbar-brand" href="#">RPG</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
 							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/home.php">Home</a></li>
-								</ul>
-							</li>
+						</ul>
+						</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li class="dropdown">
@@ -62,11 +62,11 @@
 				</div>
 			</nav>
 		</header>
-<!--		============================-->
+		<!--		============================-->
 		<!--start of pic carousel-->
-<!--		=============================-->
+		<!--		=============================-->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-<!--			 Indicators-->
+			<!--			 Indicators-->
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
@@ -113,9 +113,9 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
-<!--		=========================-->
-<!--		section one: clothes-->
-<!--		=============================-->
+		<!--		=========================-->
+		<!--		section one: clothes-->
+		<!--		=============================-->
 		<section class="scrolling">
 			<div class="container">
 				<div class="row">
@@ -145,6 +145,7 @@
 					</div>
 				</div>
 			</div>
+			</br>
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6 col-md-4">
@@ -174,9 +175,9 @@
 				</div>
 			</div>
 		</section>
-<!--		==================-->
-<!--		section two: Music-->
-<!--		==================-->
+		<!--		==================-->
+		<!--		section two: Music-->
+		<!--		==================-->
 		<section class="music">
 			<div class="soundcloud">
 				<iframe  width="400" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
