@@ -78,3 +78,16 @@ Your Milestone passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/pers
 I suggest that the elements on the mobile layout be full-width. This will ensure a good layout on the narrowest mobile screens.
 
 Your HTML errors from my earlier evaluation still need to be corrected - but just take note of the errors and go forward from here. No need to spend any time making the corrections.
+
+### Milestone 2b Feedback
+Nice work. Take a look at the notes we went over below, and check in with me or Skyler this week. After some cleanup with your layout, you should be ready to deploy to ASO next week.
+
+Your Milestone 2b passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+#### Edits &amp; Suggestions
+- Fix directory structure. Create an index.php file inside /public_html - this will be your home page. Create a directory called /artists/index.php
+- Download a placeholder image from pixabay for your carousel. Going forward, make sure the aspect ratio and size of all of the carousel images are the same. Ideally keep the images less than 500kb max 
+- Use img-responsive bootstrap class on your product images. 
+- Experiment adding an addition container inside columns for the products, and add the drop shadow and border styles to that. See snippet on Slack.
+- look at google.com/fonts
+- add a contact form
