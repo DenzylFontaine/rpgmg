@@ -6,26 +6,20 @@
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		​
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
-		​
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
-		​
 		<!-- LOAD OUR CUSTOM STYLESHEET HERE!!11! -->
 		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
-		​
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
 		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
-		​
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-		​
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	</head>
@@ -80,7 +74,7 @@
 			</ol>
 			<div class="carousel-inner" role="listbox">
 				<div class="item">
-					<img class="first-slide" src="http://cdn.bmwblog.com/wp-content/uploads/bmw-i8-pure-impulse-package-02.jpg" alt="First slide">
+					<img class="first-slide" src="lighter-1218248_640.jpg" alt="First slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Respect</h1>
@@ -90,7 +84,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img class="second-slide" src="http://www.landroverusa.com/Images/L494_16_EXT_LOC02_AUTO_04_ms_1_293-182901_450x259.jpg?v=2" alt="Second slide">
+					<img class="second-slide" src="lighter-1218248_640.jpg" alt="Second slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Power</h1>
@@ -100,7 +94,7 @@
 					</div>
 				</div>
 				<div class="item active">
-					<img class="third-slide" src="http://www.topgear.com/sites/default/files/styles/fit_1960x1102/public/news/carousel/2015/04/Large%20Image_10190.jpg?itok=Lgxsgsdk" alt="Third slide">
+					<img class="third-slide" src="lighter-1218248_640.jpg" alt="Third slide">
 					<div class="container">
 						<div class="carousel-caption">
 							<h1>Glory</h1>
@@ -126,38 +120,56 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 				</div>
 			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 					<div class="col-xs-6 col-md-4">
-						<h5>Lobo Swag</h5>
-						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
-						<p>$??.??</p>
+						<div class="shirts">
+							<h5>Lobo Swag</h5>
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							</br>
+							<p>$??.??</p>
+						</div>
 					</div>
 				</div>
 			</div>
