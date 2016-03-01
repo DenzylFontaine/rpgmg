@@ -72,7 +72,6 @@
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="2" class="active"></li>
 			</ol>
-			<div class="mid-carousel">
 				<div class="carousel-inner" role="listbox">
 					<div class="item">
 						<img class="first-slide" src="images/lighter-1218248_640.jpg" alt="First slide">
@@ -105,7 +104,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
 			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
 				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 				<span class="sr-only">Previous</span>
