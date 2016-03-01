@@ -62,7 +62,7 @@
 									<li><a href="#">King Jones</a></li>
 								</ul>
 							<li><a href="#scrolling">Gear<span class="sr-only"></a></li>
-							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists.php">Music</a></li>
+							<li><a href="#music">Music</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
 				</div>
@@ -125,17 +125,17 @@
 		<section class="scrolling">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
@@ -144,17 +144,17 @@
 			</div>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-xs-6 col-md-4">
 						<h5>Hobo Swag</h5>
 						<img class="photo" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 						<p>$??.??</p>
@@ -167,8 +167,8 @@
 <!--		==================-->
 		<section class="music">
 			<div class="soundcloud">
-				<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-				<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+				<iframe  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+				<iframe  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 			</div>
 		</section>
 	</body>

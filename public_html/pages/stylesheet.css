@@ -83,3 +83,7 @@ h1 {
 
 /*music css*/
 
+.iframe {
+	height: 400px;
+	width: 400px;
+}
