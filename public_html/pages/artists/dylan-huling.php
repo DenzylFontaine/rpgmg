@@ -73,7 +73,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<p>Dylan Huling</p>
-					<img src="/public_html/images/horn-952994_640.jpg" />
+					<img src="/public_html/images/horn-player.jpg" />
 			</div>
 		</section>
 	</body>
