@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 		​
 		<!-- LOAD OUR CUSTOM STYLESHEET HERE!!11! -->
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheetk.css" href="style.css" />
 		​
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,7 +28,7 @@
 		​
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
+		<link href="stylesheetk.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 		<header></header>
