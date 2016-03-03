@@ -1,7 +1,18 @@
+<?php
+/**
+ * Get the relative path.
+ * @see https://raw.githubusercontent.com/kingscreations/farm-to-you/master/php/lib/_header.php FarmToYou Header
+ **/
+require_once(dirname(__DIR__) . "/root-path.php");
+$CURRENT_DEPTH = substr_count($CURRENT_DIR, "/");
+$ROOT_DEPTH = substr_count($ROOT_PATH, "/");
+$DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
+$PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
+?>
 <!DOCTYPE html>
 <html>
 	<head lang ="en">
-		<title></title>
+		<title><?php echo $PAGE_TITLE; ?></title>
 		<meta charset="utf-8"/>
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,7 +22,7 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 		<!-- LOAD OUR CUSTOM STYLESHEET HERE!!11! -->
-		<link href="stylesheet.css" rel="stylesheet" type="text/css" />
+		<link href="<?php echo $PREFIX; ?>stylesheet.css" rel="stylesheet" type="text/css" />
 		<link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -51,10 +62,10 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Artists <span class="caret"></span></a>
 								<ul class="dropdown-menu">
-									<li><a href="#">Dylan Huling</a></li>
-									<li><a href="#">Jr. J</a></li>
-									<li><a href="#">Authentik Lyf</a></li>
-									<li><a href="#">King Jones</a></li>
+									<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists/dylan-huling.php">Dylan Huling</a></li>
+									<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists/jr-j.php">Jr. J</a></li>
+									<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists/authentik-lyfe.php">Authentik Lyf</a></li>
+									<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists/king-jones.php">King Jones</a></li>
 								</ul>
 							<li><a href="#scrolling">Gear<span class="sr-only"></a></li>
 							<li><a href="#music">Music</a></li>
