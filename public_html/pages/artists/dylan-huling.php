@@ -67,13 +67,13 @@
 		</br>
 		</br>
 <!--		==========================-->
-<!--		start of the Dylans change-->
+<!--		start of the Dylan's change-->
 <!--		==========================-->
 		<section>
 			<div class="row">
 				<div class="col-md-6">
-					<p>Dylan Huling</p>
-					<img src="/public_html/images/horn-player.jpg" />
+					<h2>Dylan Huling</h2>
+					<img src="/public_html/images/lighter-1218248_640.jpg" />
 			</div>
 		</section>
 	</body>
