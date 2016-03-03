@@ -76,9 +76,6 @@
 						</br>
 						</br>
 						</br>
-						</br>
-						</br>
-						</br>
 						<h2>Dylan Huling</h2>
 						<img src="images/lighter-1218248_640.jpg" />
 					</div>
