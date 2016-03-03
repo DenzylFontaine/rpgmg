@@ -11,7 +11,7 @@
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous" />
 		<!-- LOAD OUR CUSTOM STYLESHEET HERE!!11! -->
-		<link href="stylesheetd.css" rel="stylesheet" type="text/css" />
+		<link href="stylesheetd.css" rel="stylesheetd" type="text/css" />
 		<link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
