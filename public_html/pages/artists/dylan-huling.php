@@ -38,7 +38,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<!--						left side of the navbar starts here-->
+						<!--left side of the navbar starts here-->
 						<a class="navbar-brand" href="#">RPG</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
@@ -63,27 +63,42 @@
 				</div>
 			</nav>
 		</header>
-		</br>
-		</br>
-		</br>
 <!--		==========================-->
 <!--		start of the Dylan's change-->
 <!--		==========================-->
-		<section class="dylan">
+		<section class="yd">
 			<div class="row">
-				<div class="col-md-6">
-					<div class="container">
+				<div class="col-md-2">
+
+				</div>
+				<div class="col-md-4">
+					<div class="dylanhuling">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
 						<h2>Dylan Huling</h2>
 						<img src="images/lighter-1218248_640.jpg" />
 					</div>
 				</div>
-				<div class="col-md-6" >
-					<div class="container">
+				<div class="col-md-4" >
+					<div class="dylan">
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
+						</br>
 						<p>And lastly, this one. Checkmate.
 							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.Oh yeah, it's that good. See for yourself.
 							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.First featurette heading. It'll blow your mind.
 							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
 					</div>
+				</div>
+				<div class="col-md-2">
+
 				</div>
 			</div>
 		</section>
