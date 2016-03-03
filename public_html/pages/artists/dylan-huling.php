@@ -77,7 +77,7 @@
 						</br>
 						</br>
 						<h2>Dylan Huling</h2>
-						<img src="../../images/music-890877_1920.jpg" />
+						<img src="../../images/musicman.jpg" />
 					</div>
 				</div>
 				<div class="col-md-4" >
