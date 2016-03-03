@@ -69,11 +69,22 @@
 <!--		==========================-->
 <!--		start of the Dylan's change-->
 <!--		==========================-->
-		<section>
+		<section class="dylan">
 			<div class="row">
 				<div class="col-md-6">
-					<h2>Dylan Huling</h2>
-					<img src="/public_html/images/lighter-1218248_640.jpg" />
+					<div class="container">
+						<h2>Dylan Huling</h2>
+						<img src="images/lighter-1218248_640.jpg" />
+					</div>
+				</div>
+				<div class="col-md-6" >
+					<div class="container">
+						<p>And lastly, this one. Checkmate.
+							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.Oh yeah, it's that good. See for yourself.
+							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.First featurette heading. It'll blow your mind.
+							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+					</div>
+				</div>
 			</div>
 		</section>
 	</body>
