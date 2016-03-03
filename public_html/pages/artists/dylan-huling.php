@@ -1,6 +1,6 @@
 <?php
 $CURRENT_DIR = __DIR__;
-$PAGE_TITLE = "yd";
+$PAGE_TITLE = "Dylan Huling";
 ?>
 <?php require_once(dirname(dirname(__DIR__)) . "/php/navbar.php"); ?>
 <!--		==========================-->

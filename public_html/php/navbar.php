@@ -54,7 +54,7 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/index.php">Home</a></li>
+							<li><a href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/index.php">Home</a></li>
 						</ul>
 						</li>
 						</ul>
