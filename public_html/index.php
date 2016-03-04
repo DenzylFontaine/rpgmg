@@ -7,13 +7,18 @@ $PAGE_TITLE = "Home";
 		<!--start of pic carousel-->
 		<!--		=============================-->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
-			<!--			 Indicators-->
+<!--			===============-->
+			<!--			 Indicators the little circles under the carousel pics-->
+<!--			==================-->
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="2" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="3" class=""></li>
 			</ol>
+<!--			=================================-->
+<!--			this is where the carousel slides start-->
+<!--			=================================-->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
 						<img class="first-slide center-block" src="images/lighter-1218248_640.jpg" alt="First slide">
@@ -56,6 +61,9 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 				</div>
+<!--			===============================-->
+<!--			this is where the carousel controls are(arrows on the sides of the pics)-->
+<!--			===============================-->
 			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
 				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 				<span class="sr-only">Previous</span>
@@ -114,15 +122,15 @@ $PAGE_TITLE = "Home";
 					</div>
 				</div>
 			</div>
-		</section>
 		<!--		==================-->
 		<!--		section two: Music-->
 		<!--		==================-->
-		<section class="music">
-			<div class="soundcloud">
-				<iframe  width="400" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-				<iframe  width="400" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-				<iframe width="400" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164796269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			<div class="container">
+				<div class="homemusic">
+					<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+					<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+					<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164796269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+				</div>
 			</div>
 		</section>
 	</body>
