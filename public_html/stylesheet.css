@@ -97,8 +97,14 @@ h4 {
 
 /*music css*/
 
-.music {
+.yd {
+	background-image: image(warsaw-1017468_1920.jpg);
+}
+
+h2 {
 	text-align: center;
+	font-family: Calligraffitti;
+	color:  #cc101d;
 }
 
 /*dylan's css*/
@@ -113,3 +119,4 @@ h4 {
 .artsound {
 	padding-top: 20px;
 }
+
