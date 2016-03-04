@@ -8,20 +8,17 @@ $PAGE_TITLE = "yd";
 <!--		==========================-->
 		<section class="yd">
 			<div class="row">
-				<div class="col-md-2">
-
-				</div>
 				<div class="col-md-4">
-					<div class="dylanhuling">
+					<div class="container">
 						</br>
 						</br>
 						</br>
 						<h2>Dylan Huling</h2>
-						<img src="../../images/dude.jpg" />
+						<img-responsive src="../images/dude.jpg" />
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="dylan">
+				<div class="col-md-8">
+					<div class="container">
 						</br>
 						</br>
 						</br>
@@ -36,14 +33,11 @@ $PAGE_TITLE = "yd";
 						<iframe width="400px" height="100px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;color=cc101d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 						</br>
 						</br>
-						<iframe width="400" height="100px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;color=cc101d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+						<iframe width="400px" height="100px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;color=cc101d&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 						</br>
 						</br>
 						<a class="twitter-timeline" href="https://twitter.com/ddenz24" data-widget-id="705497830304063489">Tweets by @ddenz24</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					</div>
-				</div>
-				<div class="col-md-2">
-
 				</div>
 			</div>
 		</section>
