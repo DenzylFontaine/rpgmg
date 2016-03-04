@@ -71,11 +71,16 @@ h1 {
 	background-color: #050505;
 }
 
+/*Whole body*/
+
+body {
+	background-image: url("images/empire-state-building.jpg");
+}
+
 /*clothes css*/
 
 .scrolling {
 	text-align: center;
-	background-image: url("images/empire-state-building.jpg");
 }
 
 .img-responsive {
