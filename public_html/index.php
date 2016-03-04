@@ -9,13 +9,13 @@ $PAGE_TITLE = "Home";
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<!--			 Indicators-->
 			<ol class="carousel-indicators">
-				<li data-target="#myCarousel" data-slide-to="0" class=""></li>
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1" class=""></li>
 				<li data-target="#myCarousel" data-slide-to="2" class=""></li>
-				<li data-target="#myCarousel" data-slide-to="3" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="3" class=""></li>
 			</ol>
 				<div class="carousel-inner" role="listbox">
-					<div class="item">
+					<div class="item active">
 						<img class="first-slide" src="images/lighter-1218248_640.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
@@ -45,7 +45,7 @@ $PAGE_TITLE = "Home";
 							</div>
 						</div>
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img class="forth-slide" src="images/lighter-1218248_640.jpg" alt="Forth slide">
 						<div class="container">
 							<div class="carousel-caption">
