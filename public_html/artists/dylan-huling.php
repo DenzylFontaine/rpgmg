@@ -16,8 +16,7 @@ $PAGE_TITLE = "yd";
 						<h2>Dylan Huling</h2>
 						<img class="img-responsive" src="../images/dude.jpg" />
 					</div>
-				</div>
-				<div class="col-xs-8">
+					<div class="col-md-8">
 						</br>
 						<p>And lastly, this one. Checkmate.
 							Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.Oh yeah, it's that good. See for yourself.
@@ -31,8 +30,9 @@ $PAGE_TITLE = "yd";
 						</br>
 						</br>
 						<a class="twitter-timeline" href="https://twitter.com/ddenz24" data-widget-id="705497830304063489">Tweets by @ddenz24</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+					</div>
 				</div>
-			</div>
 		</section>
 	</body>
 </html>
