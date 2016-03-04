@@ -4,7 +4,7 @@ $PAGE_TITLE = "Dylan Huling";
 ?>
 <?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/navbar.php"); ?>
 <!--		==========================-->
-<!--		start of the Dylan's change-->
+<!--		start of the Dylan's page-->
 <!--		==========================-->
 		<section class="yd">
 			<div class="container">

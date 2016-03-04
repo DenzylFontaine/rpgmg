@@ -16,7 +16,7 @@ $PAGE_TITLE = "Home";
 			</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide" src="images/lighter-1218248_640.jpg" alt="First slide">
+						<img class="first-slide center-block" src="images/lighter-1218248_640.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Respect</h1>
@@ -26,7 +26,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="second-slide" src="images/lighter-1218248_640.jpg" alt="Second slide">
+						<img class="second-slide center-block" src="images/lighter-1218248_640.jpg" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Power</h1>
@@ -36,7 +36,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="third-slide" src="images/lighter-1218248_640.jpg" alt="Third slide">
+						<img class="third-slide center-block" src="images/lighter-1218248_640.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Glory</h1>
@@ -46,7 +46,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="forth-slide" src="images/lighter-1218248_640.jpg" alt="Forth slide">
+						<img class="forth-slide center-block" src="images/lighter-1218248_640.jpg" alt="Forth slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>"Own Yourself" -RPG</h1>
