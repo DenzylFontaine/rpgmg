@@ -8,8 +8,8 @@ $PAGE_TITLE = "yd";
 <!--		==========================-->
 		<section class="yd">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="container">
+				<div class="container">
+					<div class="col-md-4">
 						</br>
 						</br>
 						</br>
@@ -17,8 +17,8 @@ $PAGE_TITLE = "yd";
 						<img-responsive src="../images/dude.jpg" />
 					</div>
 				</div>
-				<div class="col-md-8">
-					<div class="container">
+				<div class="container">
+					<div class="col-md-8">
 						</br>
 						</br>
 						</br>
