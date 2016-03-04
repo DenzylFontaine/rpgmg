@@ -76,7 +76,7 @@ $PAGE_TITLE = "Home";
 		<!--		=========================-->
 		<!--		section one: clothes-->
 		<!--		=============================-->
-		<section class="scrolling">
+		<section id="clothes" class="scrolling">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
@@ -122,16 +122,18 @@ $PAGE_TITLE = "Home";
 					</div>
 				</div>
 			</div>
+		</section>
 		<!--		==================-->
 		<!--		section two: Music-->
 		<!--		==================-->
-			<div class="container">
-				<div class="homemusic">
-					<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-					<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-					<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164796269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+			<section id="songs" class="music">
+				<div class="container">
+					<div class="homemusic">
+						<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+						<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+						<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164796269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+					</div>
 				</div>
-			</div>
-		</section>
+			</section>
 	</body>
 </html>

@@ -67,8 +67,8 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 									<li><a href="/~dfontaine1/rpgmg/public_html/artists/authentik-lyfe.php">Authentik Lyf</a></li>
 									<li><a href="/~dfontaine1/rpgmg/public_html/artists/king-jones.php">King Jones</a></li>
 								</ul>
-							<li><a href="#scrolling">Gear<span class="sr-only"></a></li>
-							<li><a href="#music">Music</a></li>
+							<li><a href="#clothes">Gear<span class="sr-only"></a></li>
+							<li><a href="#songs">Music</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
 				</div>
