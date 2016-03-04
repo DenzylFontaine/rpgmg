@@ -31,7 +31,7 @@ $PAGE_TITLE = "Home";
 							<div class="carousel-caption">
 								<h1>Power</h1>
 								<p>Click here to go to Jr. J's page.</p>
-								<p><a class="btn btn-lg btn-danger" href="#" role="button">Jr. J</a></p>
+								<p><a class="btn btn-lg btn-danger" href="/~dfontaine1/rpgmg/public_html/artists/jr-j.php" role="button">Jr. J</a></p>
 							</div>
 						</div>
 					</div>
@@ -41,7 +41,7 @@ $PAGE_TITLE = "Home";
 							<div class="carousel-caption">
 								<h1>Glory</h1>
 								<p>Click here to go to the Kings's page.</p>
-								<p><a class="btn btn-lg btn-danger" href="#" role="button">King Jones</a></p>
+								<p><a class="btn btn-lg btn-danger" href="/~dfontaine1/rpgmg/public_html/artists/king-jones.php" role="button">King Jones</a></p>
 							</div>
 						</div>
 					</div>
@@ -51,7 +51,7 @@ $PAGE_TITLE = "Home";
 							<div class="carousel-caption">
 								<h1>"Own Yourself" -RPG</h1>
 								<p>Click here to go to Authentik Lyfe's page.</p>
-								<p><a class="btn btn-lg btn-danger" href="#" role="button">Authentik Lyfe</a></p>
+								<p><a class="btn btn-lg btn-danger" href="/~dfontaine1/rpgmg/public_html/artists/authentik-lyfe.php" role="button">Authentik Lyfe</a></p>
 							</div>
 						</div>
 					</div>
