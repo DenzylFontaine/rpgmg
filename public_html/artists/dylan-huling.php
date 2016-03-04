@@ -1,8 +1,8 @@
 <?php
 $CURRENT_DIR = __DIR__;
-$PAGE_TITLE = "Dylan Huling";
+$PAGE_TITLE = "yd";
 ?>
-<?php require_once(dirname(dirname(__DIR__)) . "/php/navbar.php"); ?>
+<?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/navbar.php"); ?>
 <!--		==========================-->
 <!--		start of the Dylan's change-->
 <!--		==========================-->
@@ -12,7 +12,7 @@ $PAGE_TITLE = "Dylan Huling";
 
 				</div>
 				<div class="col-md-4">
-					<div class="artistpic">
+					<div class="dylanhuling">
 						</br>
 						</br>
 						</br>

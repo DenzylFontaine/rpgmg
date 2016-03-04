@@ -21,7 +21,7 @@ $PAGE_TITLE = "Home";
 							<div class="carousel-caption">
 								<h1>Respect</h1>
 								<p>Click here to go to Dylan's page.</p>
-								<p><a class="btn btn-lg btn-danger" href="https://bootcamp-coders.cnm.edu/~dfontaine1/rpgmg/public_html/pages/artists/dylan-huling.php" role="button">Dylan Huling</a></p>
+								<p><a class="btn btn-lg btn-danger" href="/../rpgmg/public_html/artists/dylan-huling.php" role="button">Dylan Huling</a></p>
 							</div>
 						</div>
 					</div>
