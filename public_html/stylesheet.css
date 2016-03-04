@@ -97,8 +97,11 @@ h4 {
 
 /*music css*/
 
+/*dylan's css*/
+
 .yd {
 	background-image: url("images/warsaw-1017468_1920.jpg");
+	color:aliceblue;
 }
 
 h2 {
@@ -107,7 +110,6 @@ h2 {
 	color:  #cc101d;
 }
 
-/*dylan's css*/
 .p-t-8 {
 	padding-top: 80px;
 }

@@ -1,6 +1,6 @@
 <?php
 $CURRENT_DIR = __DIR__;
-$PAGE_TITLE = "yd";
+$PAGE_TITLE = "Dylan Huling";
 ?>
 <?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/navbar.php"); ?>
 <!--		==========================-->
@@ -9,13 +9,13 @@ $PAGE_TITLE = "yd";
 		<section class="yd">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-5">
 						<div class="p-t-8">
 							<h2>Dylan Huling</h2>
 							<img class="img-responsive" src="../images/dude.jpg" />
 						</div>
 					</div>
-						<div class="col-md-6">
+						<div class="col-md-7">
 							<div class="p-t-16">
 								<p>And lastly, this one. Checkmate.
 									Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.Oh yeah, it's that good. See for yourself.
