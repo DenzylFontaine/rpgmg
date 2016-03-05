@@ -22,29 +22,21 @@
 
 /*carousel css*/
 
-.first-slide  {
-height: 700px;
-width: 900px;
-box-shadow: 10px 10px 10px #aaa;
-}
+/*.first-slide  {*/
+	/*padding-top: 20px;*/
+/*}*/
 
-.second-slide {
-height: 700px;
-width: 900px;
-box-shadow: 10px 10px 10px #aaa;
-}
+/*.second-slide {*/
+	/*padding-top: 20px;*/
+/*}*/
 
-.third-slide {
-height: 700px;
-width: 900px;
-box-shadow: 10px 10px 10px #aaa;
-}
+/*.third-slide {*/
+	/*padding-top: 30px;*/
+/*}*/
 
-.forth-slide {
-	height: 700px;
-	width: 900px;
-	box-shadow: 10px 10px 10px #aaa;
-}
+/*.forth-slide {*/
+	/*padding-top: 40px;*/
+/*}*/
 
 .myCarousel > a {
 	border-radius: 0;
@@ -83,7 +75,7 @@ body {
 	text-align: center;
 }
 
-.img-responsive {
+.clothes {
 	border: 10px double black;
 	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.59);
 }

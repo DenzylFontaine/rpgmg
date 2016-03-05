@@ -21,7 +21,7 @@ $PAGE_TITLE = "Home";
 <!--			=================================-->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide center-block" src="images/lighter-1218248_640.jpg" alt="First slide">
+						<img class="first-slide center-block img-responsive" src="images/lighter-1218248_640.jpg" alt="First slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Respect</h1>
@@ -31,7 +31,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="second-slide center-block" src="images/lighter-1218248_640.jpg" alt="Second slide">
+						<img class="second-slide center-block img-responsive" src="images/lighter-1218248_640.jpg" alt="Second slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Power</h1>
@@ -41,7 +41,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="third-slide center-block" src="images/lighter-1218248_640.jpg" alt="Third slide">
+						<img class="third-slide center-block img-responsive" src="images/lighter-1218248_640.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Glory</h1>
@@ -51,7 +51,7 @@ $PAGE_TITLE = "Home";
 						</div>
 					</div>
 					<div class="item">
-						<img class="forth-slide center-block" src="images/lighter-1218248_640.jpg" alt="Forth slide">
+						<img class="forth-slide center-block img-responsive" src="images/lighter-1218248_640.jpg" alt="Forth slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>"Own Yourself" -RPG</h1>
@@ -76,24 +76,24 @@ $PAGE_TITLE = "Home";
 		<!--		=========================-->
 		<!--		section one: clothes-->
 		<!--		=============================-->
-		<section id="clothes" class="scrolling">
+		<section class="scrolling">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
@@ -104,19 +104,19 @@ $PAGE_TITLE = "Home";
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
