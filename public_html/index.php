@@ -81,19 +81,19 @@ $PAGE_TITLE = "Home";
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
@@ -104,19 +104,19 @@ $PAGE_TITLE = "Home";
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
 					<div class="col-xs-6 col-md-4">
 							<h4>Lobo Swag</h4>
-							<img id="clothes" class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
+							<img class="img-responsive" src="http://www.sunspel.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4001_102_5.jpg" />
 							</br>
 							<p>$??.??</p>
 					</div>
@@ -129,11 +129,28 @@ $PAGE_TITLE = "Home";
 			<section id="songs" class="music">
 				<div class="container">
 					<div class="homemusic">
-						<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-						<iframe  width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+						<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245020761&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+						<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229168756&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 						<iframe width="375" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164796269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 					</div>
 				</div>
 			</section>
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 text-muted">
+						<p>created by Denzyl Fontaine</p>
+					</div>
+					<div class="col-md-4 text-muted">
+						<p>RPG Music</p>
+						<p>"Own Yourself"-RPG</p>
+					</div>
+					<div class="col-md-4 text-muted">
+						<p>Contact Us</p>
+						<p>For booking and show purposes only</p>
+					</div>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>

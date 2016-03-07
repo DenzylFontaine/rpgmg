@@ -15,7 +15,7 @@ $PAGE_TITLE = "Dylan Huling";
 					<div class="col-md-5">
 						<div class="p-t-8">
 							<h2>Dylan Huling</h2>
-							<img id="clothes" class="img-responsive" src="../images/dude.jpg" />
+							<img class="img-responsive" src="../images/dude.jpg" />
 						</div>
 					</div>
 <!--					=====================-->

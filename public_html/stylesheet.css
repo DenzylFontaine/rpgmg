@@ -75,7 +75,7 @@ body {
 	text-align: center;
 }
 
-.clothes {
+.img-responsive {
 	border: 10px double black;
 	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.59);
 }
@@ -116,3 +116,9 @@ h2 {
 	padding-top: 20px;
 }
 
+/*footer css*/
+
+footer {
+	padding-top: 50px;
+	color: whitesmoke;
+}
