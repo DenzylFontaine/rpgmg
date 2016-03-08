@@ -3,9 +3,10 @@ $CURRENT_DIR = __DIR__;
 $PAGE_TITLE = "Home";
 ?>
 <?php require_once("php/headutils.php"); ?>
-<header>
-	<?php require_once("php/navbar.php"); ?>
-</header>
+	<body class="classy">
+		<header>
+			<?php require_once("php/navbar.php"); ?>
+		</header>
 		<!--		============================-->
 		<!--start of pic carousel-->
 		<!--		=============================-->
@@ -141,6 +142,6 @@ $PAGE_TITLE = "Home";
 <!--				==============-->
 <!--				footer section -->
 <!--				==============-->
-<?php require_once("php/footer.php"); ?>
+		<?php require_once("php/footer.php"); ?>
 	</body>
 </html>
