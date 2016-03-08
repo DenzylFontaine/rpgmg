@@ -2,7 +2,11 @@
 $CURRENT_DIR = __DIR__;
 $PAGE_TITLE = "Dylan Huling";
 ?>
-<?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/navbar.php"); ?>
+<?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/headutils.php"); ?>
+<body class="bg-city">
+	<header>
+		<?php require_once(dirname(dirname(__DIR__)) . "/public_html/php/navbar.php"); ?>
+	</header>
 <!--		==========================-->
 <!--		start of the Dylan's page-->
 <!--		==========================-->
@@ -47,6 +51,29 @@ $PAGE_TITLE = "Dylan Huling";
 					</div>
 				</div>
 		</section>
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="text-muted">
+							<p>created by Denzyl Fontaine</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="text-muted">
+							<p>RPG Music</p>
+							<p>"Own Yourself"-RPG</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="text-muted">
+							<p>Contact Us</p>
+							<p>For booking and show purposes only</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
 
