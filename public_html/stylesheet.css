@@ -118,7 +118,13 @@ h2 {
 
 /*footer css*/
 
-footer {
-	padding-top: 50px;
-	color: whitesmoke;
+.footer {
+	padding-top: 25px;
+	background-color: rgba(211, 211, 211, 0.68);
+	font-family: Georgia;
+	text-align: center;
+}
+
+p {
+	color:  #cc101d;
 }
