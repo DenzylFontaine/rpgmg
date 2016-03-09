@@ -14,8 +14,8 @@
 			</div>
 			<div class="col-md-4">
 				<div class="text-muted">
-					<p>Contact Us</p>
-					<p>For booking and show purposes only</p>
+					<a href="php/contact.php">Contact Us</a>
+					<p></p>
 				</div>
 			</div>
 		</div>

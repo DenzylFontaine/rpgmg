@@ -2,7 +2,7 @@
 $CURRENT_DIR = __DIR__;
 $PAGE_TITLE = "Home";
 ?>
-<?php require_once("php/headutils.php"); ?>
+<?php require_once("../php/headutils.php"); ?>
 <form class="form-horizontal well" action="email.php">
 	<div class="form-group">
 		<label for="name">Name</label>
