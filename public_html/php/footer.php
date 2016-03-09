@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="text-muted">
-					<p>created by Denzyl Fontaine</p>
+					<p>Created by Denzyl Fontaine</p>
 				</div>
 			</div>
 			<div class="col-md-4">

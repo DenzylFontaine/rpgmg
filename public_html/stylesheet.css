@@ -45,7 +45,7 @@
 
 .carousel-control:focus,
 .carousel-control:hover {
-	color: black
+	color: #cc101d;
 }
 
 h1 {
@@ -126,6 +126,6 @@ h2 {
 	text-align: center;
 }
 
-p {
+.text-muted > p {
 	color:  #cc101d;
 }
