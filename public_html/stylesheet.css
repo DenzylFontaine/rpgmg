@@ -21,23 +21,6 @@
 }
 
 /*carousel css*/
-
-/*.first-slide  {*/
-	/*padding-top: 20px;*/
-/*}*/
-
-/*.second-slide {*/
-	/*padding-top: 20px;*/
-/*}*/
-
-/*.third-slide {*/
-	/*padding-top: 30px;*/
-/*}*/
-
-/*.forth-slide {*/
-	/*padding-top: 40px;*/
-/*}*/
-
 .myCarousel > a {
 	border-radius: 0;
 	color: black;
@@ -83,6 +66,10 @@ body.classy {
 h4 {
 	color: #cc101d;
 	font-family: "Calligraffitti";
+}
+
+.prices > p {
+	color:#cc101d;
 }
 
 /*music css*/
