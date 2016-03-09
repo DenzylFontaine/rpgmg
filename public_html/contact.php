@@ -2,7 +2,6 @@
 $CURRENT_DIR = __DIR__;
 $PAGE_TITLE = "Home";
 ?>
-<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
 <?php require_once("php/headutils.php"); ?>
 <form class="form-horizontal well" action="email.php">
 	<div class="form-group">
