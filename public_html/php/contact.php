@@ -5,7 +5,7 @@ $PAGE_TITLE = "Home";
 <?php require_once("../php/headutils.php"); ?>
 <body class="classy">
 	<header>
-		<?php require_once("php/navbar.php"); ?>
+		<?php require_once("../php/navbar.php"); ?>
 	</header>
 	<div class="row">
 		<div class="col-md-8">

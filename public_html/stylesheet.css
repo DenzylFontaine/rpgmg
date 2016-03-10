@@ -116,3 +116,10 @@ h2 {
 .text-muted > p {
 	color:  #cc101d;
 }
+
+/*contact form*/
+
+.form-horizontal .well {
+	padding-top: 20px;
+	background-color: rgba(36, 36, 36, 0.42);
+}
