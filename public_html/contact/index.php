@@ -8,7 +8,7 @@ $PAGE_TITLE = "Contact Us";
 		<?php require_once(dirname(__DIR__)."/php/navbar.php"); ?>
 	</header>
 	<div class="row">
-		<div class="container" id="well">
+		<div id="well" class="container">
 			<div class="col-xs-10 col-md-4">
 				<form class="form-horizontal" id="contact-form" action="../php/email.php" method="post">
 					<div class="form-group">
@@ -55,5 +55,5 @@ $PAGE_TITLE = "Contact Us";
 			</div>
 		</div>
 	</div>
-	<?php require_once(dirname(__DIR__).("php/footer.php")); ?>
+	<?php require_once(dirname(__DIR__)."php/footer.php"); ?>
 </body>
