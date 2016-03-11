@@ -72,5 +72,5 @@ try {
 
 	echo "<div class=\"alert alert-success\" role=\"alert\">Email successfully sent.</div>";
 } catch(Exception $exception) {
-	echo "<div class=\"alert alert-danger\" role=\"alert\"><strong>Oh snap!</strong> Unable to send email: " . $exception->getMessage() . "</div>";
+	echo "<div class=\"alert alert-danger\" role=\"alert\"><strong>Oh s</strong> Unable to send email: " . $exception->getMessage() . "</div>";
 }

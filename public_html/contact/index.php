@@ -1,15 +1,15 @@
 <?php
 $CURRENT_DIR = __DIR__;
-$PAGE_TITLE = "Home";
+$PAGE_TITLE = "Contact Us";
 ?>
-<?php require_once("../php/headutils.php"); ?>
+<?php require_once(dirname(__DIR__)."/php/headutils.php"); ?>
 <body class="classy">
 	<header>
-		<?php require_once("../php/navbar.php"); ?>
+		<?php require_once(dirname(__DIR__)."/php/navbar.php"); ?>
 	</header>
 	<div class="row">
 		<div class="col-md-8">
-			<form class="form-horizontal well" action="email.php">
+			<form class="form-horizontal well" id="contact-form" action="../php/email.php" method="post">
 				<div class="form-group">
 					<label for="name">Name</label>
 					<div class="input-group">
@@ -49,6 +49,8 @@ $PAGE_TITLE = "Home";
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-danger" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
+			<div id="output-area">
+			</div>
 		</div>
 	</div>
 </body>

@@ -14,7 +14,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="text-muted">
-					<a href="php/contact.php">Contact</a>
+					<a href="php/contact.php">Contact Us</a>
 					<p></p>
 				</div>
 			</div>
