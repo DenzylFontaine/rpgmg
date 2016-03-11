@@ -81,7 +81,7 @@ $PAGE_TITLE = "Home";
 		<!--		section one: clothes-->
 		<!--		=============================-->
 		<section class="scrolling">
-			<div class="container">
+			<div class="container" id="clothes">
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-0">
 							<h4>Lobo Swag</h4>
