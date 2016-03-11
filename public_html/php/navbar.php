@@ -12,7 +12,7 @@
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="/~dfontaine1/rpgmg/public_html/index.php">Home</a></li>
+				<li><a href="../index.php">Home</a></li>
 			</ul>
 			</li>
 			</ul>
@@ -23,7 +23,7 @@
 						<li><a href="../artists/dylan-huling.php">Dylan Huling</a></li>
 						<li><a href="../artists/jr-j.php">Jr. J</a></li>
 						<li><a href="../artists/authentik-lyfe.php">Authentik Lyf</a></li>
-						<li><a href="../artists/king-jones.php">King Jones</a></li>
+						<li><a href="../php/artists/king-jones.php">King Jones</a></li>
 					</ul>
 				<li><a href="#clothes">Gear<span class="sr-only"></a></li>
 				<li><a href="#songs">Music</a></li>

@@ -14,7 +14,7 @@
 			</div>
 			<div class="col-md-4">
 				<div class="text-muted">
-					<a href="../contact/index.php">Contact Us</a>
+					<a href="/public_html/contact/index.php">Contact Us</a>
 					<p></p>
 				</div>
 			</div>

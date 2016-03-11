@@ -8,7 +8,7 @@ $PAGE_TITLE = "Contact Us";
 		<?php require_once(dirname(__DIR__)."/php/navbar.php"); ?>
 	</header>
 	<div class="row">
-		<div class="col-md-8">
+		<div class="col-xs-10 col-md-4 ">
 			<form class="form-horizontal well" id="contact-form" action="../php/email.php" method="post">
 				<div class="form-group">
 					<label for="name">Name</label>
