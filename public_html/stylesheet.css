@@ -123,3 +123,13 @@ div#well.container {
 	padding-top:100px;
 	background-color: transparent;
 }
+
+label {
+	color:#cc101d;
+	font-family: IM Fell Double Pic;
+}
+
+.btn-success {
+	background-color: aliceblue;
+	color: black;
+}

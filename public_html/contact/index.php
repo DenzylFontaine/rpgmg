@@ -50,10 +50,10 @@ $PAGE_TITLE = "Contact Us";
 					<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 					<button class="btn btn-danger" type="reset"><i class="fa fa-ban"></i> Reset</button>
 				</form>
+				<?php require_once(dirname(__DIR__)."php/footer.php"); ?>
 				<div id="output-area">
 				</div>
 			</div>
 		</div>
 	</div>
-	<?php require_once(dirname(__DIR__)."php/footer.php"); ?>
 </body>
