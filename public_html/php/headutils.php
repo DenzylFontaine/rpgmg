@@ -25,7 +25,6 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<link href="<?php echo $PREFIX; ?>stylesheet.css" rel="stylesheet" type="text/css" />
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
 		<link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
-		<link href='https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica:400,400italic' rel='stylesheet' type='text/css'>
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>

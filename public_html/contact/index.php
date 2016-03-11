@@ -47,10 +47,9 @@ $PAGE_TITLE = "Contact Us";
 							<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
 						</div>
 					</div>
-					<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+					<button class="btn btn-custom" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 					<button class="btn btn-danger" type="reset"><i class="fa fa-ban"></i> Reset</button>
 				</form>
-				<?php require_once(dirname(__DIR__)."php/footer.php"); ?>
 				<div id="output-area">
 				</div>
 			</div>

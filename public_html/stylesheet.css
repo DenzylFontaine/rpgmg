@@ -126,10 +126,16 @@ div#well.container {
 
 label {
 	color:#cc101d;
-	font-family: IM Fell Double Pic;
+	font-family:Futura;
 }
 
-.btn-success {
-	background-color: aliceblue;
+.btn-custom {
+	background-color: white;
 	color: black;
+	border-radius: 0;
+	box-shadow: 6px 6px 6px #050505;
+}
+
+.btn-custom:hover {
+	color:forestgreen;
 }
